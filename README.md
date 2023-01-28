@@ -60,5 +60,4 @@
 <h3 align="left">My statistics :</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-tamen&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-tamen&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
