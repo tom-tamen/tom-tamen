@@ -31,10 +31,12 @@
 <h3 align="left">Backend</h3>
 <div align="left">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />
+		<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="50px" height="50px"></a>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" />
+		<a href="https://laravel.com/" title="Laravel"><img src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" width="50px" height="50px"></a>
+	<a href="https://symfony.com/" title="Symfony"><img src="https://github.com/get-icon/geticon/raw/master/icons/symfony.svg" alt="Symfony" width="50px" height="50px"></a>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
-	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" title="Laravel" />
 </div>
 <br>
 <h3 align="left">CMS</h3>
@@ -49,7 +51,7 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" />
 	<img height="50" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe xd" title="Adobe xd" />
-	<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" />
+	<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="50px" height="50px"></a>
 </div>
 
 
@@ -57,12 +59,6 @@
 
 <h3 align="left">My statistics :</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-tamen)](https://github.com/anuraghazra/github-readme-stats)
-
-
-```mermaid
-pie title A 24-hour day
-    "Sleep" : 8
-    "Code" : 12
-    "Other" : 4
-```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-tamen&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-tamen&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
